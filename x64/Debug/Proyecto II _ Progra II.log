@@ -1,9 +1,0 @@
-﻿  main.cpp
-C:\Users\David Calvo\Downloads\Proyecto II _ Progra II\Proyecto II _ Progra II\main.cpp(13,33): error C2440: '=': no se puede realizar la conversión de 'Nodo<T> *' a 'int *'
-          with
-          [
-              T=int
-          ]
-C:\Users\David Calvo\Downloads\Proyecto II _ Progra II\Proyecto II _ Progra II\main.cpp(13,33): message : Los tipos señalados no están relacionados; la conversión requiere reinterpret_cast, conversión de estilo de C o conversión de estilo de función entre paréntesis
-  SistemaPreConfigurado.cpp
-  Generando código...
