@@ -1,0 +1,5 @@
+#include "PlantillaLista.h"
+
+int main() {
+	return 0;
+}
